@@ -1,0 +1,32 @@
+~~~
+<div id="728f07bc-eeff-40ed-becf-0960e91af211" data-jscall-id="108" style="visibility: hidden;">
+  <div data-jscall-id="103">slider 1: 
+    <input step="1" max="100" min="1" data-jscall-id="104" value="1" oninput="JSServe.update_obs('13386358149551960405', parseFloat(value))" type="range" />
+    <p data-jscall-id="102">1</p>
+  </div>
+  <script data-jscall-id="105" type="text/javascript">
+    window.__define = window.define;
+    window.__require = window.require;
+    window.define = undefined;
+    window.require = undefined;
+
+</script>
+  <script data-jscall-id="106" type="text/javascript">
+    window.define = window.__define;
+    window.require = window.__require;
+    window.__define = undefined;
+    window.__require = undefined;
+
+</script>
+  <script data-jscall-id="107" type="text/javascript">
+(()=> {
+    JSServe.register_sub_session('728f07bc-eeff-40ed-becf-0960e91af211')
+    const init_data_b64 = 'H4sIAAAAAAAAA8WUT2/TMBjGxbWfwres0trZ+R+kcYBxoBKMqdwQstz4TTEkdhQ7XaOJSzkjjSs3QFq5w4fgK/Bt8NLSoqnqRDuJKAdHft43/r1P8szmJWtyxfin939W974I/oN4Xhx6QUz8JAhIEmIfB98KPaamKeFzsBLPvlP6hk2YTitRmnaX0qvB8JHisNJcaVVXKfz6WYGpK4myWqZGKImUpHXJmYEDCed0wvIauuiig+x1dCSkgapUOTNCjpHK0MnpUyRtX42Y5EiZ11ChQZ0LhtpKjc5V9RYVSpu8QUwjmJaQGuD324apktqgkkIOBUiDjhGlYAup3TAwNZS+xK9a5UrTF1JC9cJuWvXqhJ13nfmy5uNG/PmJKp79xf+VYPf2mZIbBgTYS4gX4oC4iRu5BAfxJgN4Kyau58duECYRCewd4sjfJF5ai3EYeVEcEi8inh9FmOxt7fOlte2Ejh+gwXAI1QT6C3vptW2UGVOJUW3d3jD5Q+RoA6VzuGjR/ecR+7dPjezGdnoHbAWb7ou21eP/iSbkvmhbv8gd0c7uAK2t3Rtu618/2wnuwzrRWFnmImXXeUq5KmxScZXWbXyNwTxeJNnD5gk/cCI3znA0SnsAWdbzMfDeCNKsh+2pICEscwlxum0G3uja16bJoT8RWoxELkxjX+O0Tzk4qzi8XHO562XyG9Szs+VkBgAA'
+    JSServe.init_from_b64(init_data_b64)
+    if (!true){
+        JSServe.update_obs('16581525986276103148', true)
+    }
+})()
+</script>
+</div>
+~~~
